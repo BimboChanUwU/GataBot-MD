@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from "fs"
+UUimport { watchFile, unwatchFile } from "fs"
 import chalk from "chalk"
 import { fileURLToPath } from "url"
 import fs from "fs"
@@ -33,7 +33,7 @@ global.owner = [
 ["5215539356057"]]
 
 global.mods = []
-global.prems = []
+global.prems = [50557162644]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
